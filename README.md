@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Anggita Darmawan**.\
+
+Saya seorang **Mahasiswi** di [UDINUS](dinus.ac.id/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://github.com/anggitata)ku ya.
 
 <!--
 **anggitata/anggitata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
