@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Anggita Darmawan**.
+Hai! Aku **Anggita Darmawan**.
 
-Saya seorang **Mahasiswi** di [UDINUS](dinus.ac.id/).
+Seorang **Mahasiswi** di [UDINUS](dinus.ac.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://github.com/anggitata)ku ya.
 
