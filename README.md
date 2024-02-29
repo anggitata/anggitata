@@ -2,10 +2,6 @@
 
 Hai! Aku **Anggita Darmawan**.
 
-Seorang **Mahasiswi** di [UDINUS](dinus.ac.id/).
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://github.com/anggitata)ku ya.
-
 <p align="left">
 <a href="https://github.com/anggitata">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anggitata&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
